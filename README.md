@@ -1,149 +1,189 @@
-# Leonce NGENDAKURIYO
-
-**Junior Laravel Developer**
+# LEONCE NGENDAKURIYO
+### Junior Full-Stack Laravel Developer
 
 📍 Umm Al Quwain, United Arab Emirates  
-📞 +971 54 564 9732  
-📧 ngendakuriyoleonce75@email.com  
+📧 ngendakuriyoleonce@gmail.com  
+📱 +971 54 564 9732  
 🔗 GitHub: https://github.com/ngendakuriyoleonce  
-🔗 LinkedIn: https://linkedin.com/in/LeonceNGENDAKURIYO
+🔗 LinkedIn: https://linkedin.com/in/leonce-ngendakuriyo  
 
 ---
 
-# Professional Summary
+## PROFESSIONAL SUMMARY
 
-Junior Laravel Developer with practical experience building modern web applications using PHP and Laravel. Skilled in developing CRUD applications, RESTful APIs, authentication systems, database management, and responsive user interfaces. Experienced with Laravel Sanctum, Filament PHP, Tailwind CSS, MySQL, SQLite, Git, and API testing using Postman.
+Junior Full-Stack Laravel Developer with hands-on experience building modern web applications using **Laravel, PHP, Filament, Tailwind CSS, and MySQL/SQLite**. Skilled in developing CRUD applications, RESTful APIs, authentication systems, role-based access control (RBAC), and responsive user interfaces. Passionate about writing clean, maintainable code and continuously improving technical skills through real-world projects.
 
 ---
 
-# Technical Skills
+# TECHNICAL SKILLS
 
-## Backend
-- PHP 8.x
+### Backend
+- PHP 8
 - Laravel 13
 - RESTful APIs
 - Laravel Sanctum
+- Eloquent ORM
 
-## Frontend
-- Blade Templates
+### Frontend
+- HTML5
+- CSS3
 - Tailwind CSS
+- JavaScript
 - Alpine.js
+- Blade
+- Vite
 
-## Database
+### Admin Panels
+- Filament PHP
+- Laravel Breeze
+- Spatie Permission
+
+### Database
 - MySQL
 - SQLite
-- Eloquent ORM
-- Migrations
-- Seeders
+- PostgreSQL (Basic)
 
-## Packages
-- Filament PHP
-- Spatie Laravel Permission
-- Laravel Breeze
-- DomPDF
-- Simple QRCode
-- Spatie Activitylog
-
-## Tools
-- Git
+### Tools
+- Git & GitHub
 - Composer
-- Artisan CLI
+- NPM
+- Visual Studio Code
 - Postman
-- VS Code
+- DomPDF
+
+### Other Skills
+- Authentication & Authorization
+- CRUD Operations
+- File Uploads
+- PDF Generation
+- Dashboard Development
+- Responsive Web Design
 
 ---
 
-# Project Experience
+# PROJECT EXPERIENCE
 
 ## Smart Office Suite
-**Personal Project | Junior Laravel Developer**
 
-### Description
-A role-based office management system built with Laravel for managing employees, departments, assets, visitors, and meeting rooms.
+**Enterprise Office Management System** built with Laravel and Filament.
 
 ### Responsibilities
-
-- Developed CRUD modules for Employees, Departments, Positions, Assets, Visitors, Meeting Rooms, and Users.
-- Built RESTful APIs for core application resources.
-- Implemented authentication using Laravel Breeze and Laravel Sanctum.
-- Configured role-based authorization using Spatie Laravel Permission.
-- Built an admin panel with Filament PHP.
-- Generated PDF reports using DomPDF.
-- Designed relational databases using migrations and seeders.
-- Implemented visitor check-in and check-out functionality.
-- Implemented asset assignment and unassignment.
-- Built dashboards displaying business statistics.
-- Added in-app notifications.
-- Logged user activities using Spatie Activitylog.
-- Tested REST APIs with Postman.
-- Managed source code using Git.
+- Developed Employee Management module
+- Built Department Management
+- Created Visitor Management system
+- Developed Meeting Room Booking module
+- Implemented Asset Management
+- Configured Laravel Sanctum Authentication
+- Implemented Role-Based Access Control using Spatie Permission
+- Built RESTful APIs
+- Generated PDF reports using DomPDF
+- Designed Filament Admin Dashboard
+- Developed complete CRUD functionality
+- Designed relational database structure
 
 **Technologies**
 
-- PHP 8.3
-- Laravel 13
-- Filament PHP
-- Tailwind CSS
-- Blade
-- MySQL
-- SQLite
-- Laravel Sanctum
-- Spatie Laravel Permission
-- DomPDF
-- Simple QRCode
-- Spatie Activitylog
-- Git
+`Laravel 13` • `PHP` • `MySQL` • `Filament` • `Tailwind CSS` • `Alpine.js` • `Laravel Sanctum` • `DomPDF`
+
+---
+
+## HR Management System
+
+Human Resource Management platform.
+
+### Responsibilities
+
+- Employee Management
+- Leave Management Workflow
+- Attendance Tracking
+- Project & Task Management
+- Timesheet Management
+- Employee Portal
+- Filament Dashboard
+- Role-Based Access Control (RBAC)
+
+**Technologies**
+
+`Laravel 13` • `Filament 5` • `PHP` • `SQLite` • `Tailwind CSS` • `Alpine.js`
+
+---
+
+## Leonce Blog
+
+Content Management System (CMS) for publishing blog articles.
+
+### Responsibilities
+
+- Blog Posts Management
+- Categories Management
+- Comments System
+- Search Functionality
+- Responsive Frontend
+- User Profiles
+- Laravel Breeze Authentication
+
+**Technologies**
+
+`Laravel 13` • `PHP` • `SQLite` • `Tailwind CSS` • `Blade`
 
 ---
 
 ## E-Commerce Management System
-**Personal Project | Junior Laravel Developer**
 
-### Description
-An e-commerce web application for managing products, categories, shopping carts, and customer orders.
+Online shopping platform.
 
 ### Responsibilities
 
-- Developed CRUD modules for Products, Categories, and Orders.
-- Built an admin dashboard using Filament PHP.
-- Implemented product image upload and inventory management.
-- Developed a session-based shopping cart.
-- Integrated Stripe Sandbox payment gateway.
-- Created order management with status tracking.
-- Built a customer dashboard for order history.
-- Implemented in-app notifications.
-- Generated PDF invoices using DomPDF.
-- Added product search and category filtering.
-- Managed Admin and Customer roles using Spatie Laravel Permission.
-- Created database seeders with sample data.
-- Tested APIs using Postman.
-- Managed source code using Git.
+- Products CRUD
+- Categories CRUD
+- Customer Authentication
+- Shopping Cart
+- Checkout Process
+- Order History
+- PDF Invoice Generation
+- Filament Admin Panel
+- Search & Filtering
+- Image/File Uploads
 
 **Technologies**
 
-- PHP 8.3
-- Laravel 13
-- Filament PHP
-- Tailwind CSS
-- Blade
-- MySQL
-- Laravel Sanctum
-- Stripe Sandbox
-- Spatie Laravel Permission
-- DomPDF
-- Git
+`Laravel 13` • `PHP` • `SQLite` • `Filament` • `Tailwind CSS` • `JavaScript`
 
 ---
 
-# Education
+# EDUCATION
 
-**Bachelor's Degree in Computer Science**
+## Bachelor of Management Information Systems
 
-University of the Great Lakes – Bujumbura
+**University of the Great Lakes (UGL)**
+
+**2019 – 2023**
 
 ---
 
-# Languages
+# LANGUAGES
 
-- English — Professional Working Proficiency
-- French — Intermediate
+- 🇬🇧 English — Professional
+- 🇫🇷 French — Professional
+
+---
+
+# STRENGTHS
+
+- Laravel Development
+- REST API Development
+- Problem Solving
+- Database Design
+- Clean Code
+- Team Collaboration
+- Fast Learner
+- Attention to Detail
+
+---
+
+# GITHUB PROJECTS
+
+- Smart Office Suite
+- HR Management System
+- Leonce Blog
+- E-Commerce Management System
